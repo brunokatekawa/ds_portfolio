@@ -20,5 +20,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>projects</title>
+      <link>https://brunokatekawa.github.io/ds_portfolio/tags/projects/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://brunokatekawa.github.io/ds_portfolio/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>studies</title>
+      <link>https://brunokatekawa.github.io/ds_portfolio/tags/studies/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://brunokatekawa.github.io/ds_portfolio/tags/studies/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

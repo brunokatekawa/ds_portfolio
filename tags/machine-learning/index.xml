@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Linear Regression Study 1</title>
+      <link>https://brunokatekawa.github.io/ds_portfolio/project/beer-study/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://brunokatekawa.github.io/ds_portfolio/project/beer-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rossmann stores sales prediction</title>
       <link>https://brunokatekawa.github.io/ds_portfolio/project/rossmann-sales/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
@@ -24,6 +33,7 @@
 &lt;ul&gt;
 &lt;li&gt;Python&lt;/li&gt;
 &lt;li&gt;Pandas&lt;/li&gt;
+&lt;li&gt;NumPy&lt;/li&gt;
 &lt;li&gt;Seaborn&lt;/li&gt;
 &lt;li&gt;Scikit-learn&lt;/li&gt;
 &lt;li&gt;Flask&lt;/li&gt;
