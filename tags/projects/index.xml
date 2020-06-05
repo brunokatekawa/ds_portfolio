@@ -17,10 +17,11 @@
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://brunokatekawa.github.io/ds_portfolio/project/rossmann-sales/</guid>
-      <description>&lt;p&gt;A complete project done in a Data Science and Machine Learning course.&lt;/p&gt;
-&lt;p&gt;In the course, we learn the lifecycle of a Data Science project. Starting from understanding the business problem, going through the solution development and finally doing full deployment to the production environment.&lt;/p&gt;
-&lt;p&gt;The final solution is a Telegram bot that makes total sales predictions for any given store. The underlying Machine Learning algorithm learned from a dataset containing 1,115 stores and more than 1 million sales records.&lt;/p&gt;
-&lt;p&gt;We used:&lt;/p&gt;
+      <description>&lt;p&gt;In a quarterly report meeting at Rossmann, the directors board identified an increase in competitors stores openings.&lt;/p&gt;
+&lt;p&gt;The company outlined some initiatives to prevent the competitors from taking part of the market share. However to carry out all these initiatives, well-structured financial planning with a minimum margin of error must be made so that the company wouldn&amp;rsquo;t waste money during the implementation of the initiatives.&lt;/p&gt;
+&lt;p&gt;The CFO responsible for this plan had a huge difficulty to carry it out because it was necessary to know how much each store was selling and &lt;strong&gt;how much it could sell in the short term&lt;/strong&gt;. In addition, there was no easy, automated, or convenient way to obtain this information.&lt;/p&gt;
+&lt;p&gt;To see how we tackled this problem, check the full story at GitHub: &lt;a href=&#34;https://github.com/brunokatekawa/RossmannSales&#34;&gt;https://github.com/brunokatekawa/RossmannSales&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Stack used:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Python&lt;/li&gt;
 &lt;li&gt;Pandas&lt;/li&gt;
@@ -31,7 +32,6 @@
 &lt;li&gt;Telegram bot API&lt;/li&gt;
 &lt;li&gt;Heroku&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Check full project documentation at GitHub: &lt;a href=&#34;https://github.com/brunokatekawa/Curso_DS_Prod&#34;&gt;https://github.com/brunokatekawa/Curso_DS_Prod&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
