@@ -13,11 +13,12 @@
     
     <item>
       <title>Rossmann stores sales prediction</title>
-      <link>https://brunokatekawa.github.io/ds_portfolio/project/internal-project/</link>
+      <link>https://brunokatekawa.github.io/ds_portfolio/project/rossmann-sales/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brunokatekawa.github.io/ds_portfolio/project/internal-project/</guid>
-      <description>&lt;p&gt;In the course, we learn the lifecycle of a Data Science project. Starting from understanding the business problem, solution development and full deployment to the production environment.&lt;/p&gt;
+      <guid>https://brunokatekawa.github.io/ds_portfolio/project/rossmann-sales/</guid>
+      <description>&lt;p&gt;A complete project done in a Data Science and Machine Learning course.&lt;/p&gt;
+&lt;p&gt;In the course, we learn the lifecycle of a Data Science project. Starting from understanding the business problem, going through the solution development and finally doing full deployment to the production environment.&lt;/p&gt;
 &lt;p&gt;The final solution is a Telegram bot that makes total sales predictions for any given store. The underlying Machine Learning algorithm learned from a dataset containing 1,115 stores and more than 1 million sales records.&lt;/p&gt;
 &lt;p&gt;We used:&lt;/p&gt;
 &lt;ul&gt;
@@ -25,6 +26,7 @@
 &lt;li&gt;Pandas&lt;/li&gt;
 &lt;li&gt;Seaborn&lt;/li&gt;
 &lt;li&gt;Scikit-learn&lt;/li&gt;
+&lt;li&gt;Flask&lt;/li&gt;
 &lt;li&gt;Telegram bot API&lt;/li&gt;
 &lt;li&gt;Heroku&lt;/li&gt;
 &lt;/ul&gt;
