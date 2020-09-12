@@ -17,24 +17,7 @@
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://brunokatekawa.github.io/ds_portfolio/project/people-analytics-turnover/</guid>
-      <description>&lt;p&gt;In mid 2019, Gallup estimated that a trillion dollars was what U.S. businesses were losing every year due to voluntary employee turnover. With a trillion dollars on the table, businesses may also want to take other steps to curb turnover and keep their workforce happy and engaged.&lt;/p&gt;
-&lt;p&gt;However, for a company with the range of hundreds to thousands of employees plus bureaucratic processes, how the managers are going to find, talk and engage the right employee at the right time?&lt;/p&gt;
-&lt;p&gt;How it makes it possible to spot those individuals that are most likely to leave?&lt;/p&gt;
-&lt;p&gt;And how many of them are considering leaving the company?&lt;/p&gt;
-&lt;p&gt;To see how this problem was tackled, check the full story at GitHub:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/brunokatekawa/PeopleAnalytics_Turnover&#34;&gt;https://github.com/brunokatekawa/PeopleAnalytics_Turnover&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Stack used:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;li&gt;Pandas&lt;/li&gt;
-&lt;li&gt;NumPy&lt;/li&gt;
-&lt;li&gt;Seaborn&lt;/li&gt;
-&lt;li&gt;Scikit-learn&lt;/li&gt;
-&lt;li&gt;Imblearn&lt;/li&gt;
-&lt;li&gt;Streamlit&lt;/li&gt;
-&lt;li&gt;Heroku&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
