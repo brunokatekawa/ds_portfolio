@@ -6,24 +6,15 @@
     <description>Recent content in Tags on Bruno Katekawa</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://brunokatekawa.github.io/ds_portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>banking</title>
-      <link>https://brunokatekawa.github.io/ds_portfolio/tags/banking/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://brunokatekawa.github.io/ds_portfolio/tags/banking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>data analysis</title>
       <link>https://brunokatekawa.github.io/ds_portfolio/tags/data-analysis/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://brunokatekawa.github.io/ds_portfolio/tags/data-analysis/</guid>
       <description></description>
@@ -32,9 +23,27 @@
     <item>
       <title>data analytics</title>
       <link>https://brunokatekawa.github.io/ds_portfolio/tags/data-analytics/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://brunokatekawa.github.io/ds_portfolio/tags/data-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>healthcare</title>
+      <link>https://brunokatekawa.github.io/ds_portfolio/tags/healthcare/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://brunokatekawa.github.io/ds_portfolio/tags/healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>banking</title>
+      <link>https://brunokatekawa.github.io/ds_portfolio/tags/banking/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://brunokatekawa.github.io/ds_portfolio/tags/banking/</guid>
       <description></description>
     </item>
     

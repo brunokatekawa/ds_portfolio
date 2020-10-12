@@ -6,10 +6,19 @@
     <description>Recent content in data analytics on Bruno Katekawa</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://brunokatekawa.github.io/ds_portfolio/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cardio Catch Diseases</title>
+      <link>https://brunokatekawa.github.io/ds_portfolio/project/cardio-catch/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://brunokatekawa.github.io/ds_portfolio/project/cardio-catch/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Credit Risk Modeling</title>
