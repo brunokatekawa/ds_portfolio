@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Bruno Katekawa</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://brunokatekawa.github.io/ds_portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>data analysis</title>
       <link>https://brunokatekawa.github.io/ds_portfolio/tags/data-analysis/</link>
-      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://brunokatekawa.github.io/ds_portfolio/tags/data-analysis/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>data analytics</title>
       <link>https://brunokatekawa.github.io/ds_portfolio/tags/data-analytics/</link>
-      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://brunokatekawa.github.io/ds_portfolio/tags/data-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fraud</title>
+      <link>https://brunokatekawa.github.io/ds_portfolio/tags/fraud/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://brunokatekawa.github.io/ds_portfolio/tags/fraud/</guid>
       <description></description>
     </item>
     
